@@ -1,5 +1,5 @@
 // Configuration
-const REDIRECT_URL = 'https://www.google.com'; // Change this to your desired URL
+const REDIRECT_URL = 'destination.html'; // Custom destination page
 const REDIRECT_DELAY = 3; // seconds
 
 // DOM elements
